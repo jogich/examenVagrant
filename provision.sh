@@ -9,6 +9,8 @@ cd ../../../
 
 sudo git clone https://github.com/jogich/examenVagrant
 
+cd examenVagrant
+
 sudo rm Vagrantfile
 sudo rm provision.sh
 
