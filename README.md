@@ -16,5 +16,6 @@ Después necesitamos ir al archivo hosts de Windows y añadir las siguientes lí
 
 El siguiente paso sería realizar un vagrant up y ya lo tendríamos todo listo.
 
+Para acceder en local, ahora tendríamos que ir a www.sitio10.com (agency) y/o www.sitio15.com (creative), tienen estos nombres porque creative.com y agency.com hacen redirect a páginar reales.
 
 
