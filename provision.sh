@@ -14,8 +14,8 @@ cd examenVagrant
 sudo rm Vagrantfile
 sudo rm provision.sh
 
-sudo mv agency.conf /etc/apache2/sites-availables/
-sudo mv creative.conf /etc/apache2/sites-availables/
+sudo mv agency.conf /etc/apache2/sites-available/
+sudo mv creative.conf /etc/apache2/sites-available/
 
 sudo a2ensite agency.conf
 sudo a2ensite creative.conf
